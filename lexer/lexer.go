@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"github.com/Akashgill3/monkey-interpreter/token"
+	"github.com/akashgill3/monkey-interpreter/token"
 )
 
 type Lexer struct {

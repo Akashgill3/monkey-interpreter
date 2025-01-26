@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/Akashgill3/monkey-interpreter/repl"
+	"github.com/akashgill3/monkey-interpreter/repl"
 )
 
 func main() {

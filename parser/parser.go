@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"github.com/Akashgill3/monkey-interpreter/ast"
-	"github.com/Akashgill3/monkey-interpreter/lexer"
-	"github.com/Akashgill3/monkey-interpreter/token"
+	"github.com/akashgill3/monkey-interpreter/ast"
+	"github.com/akashgill3/monkey-interpreter/lexer"
+	"github.com/akashgill3/monkey-interpreter/token"
 )
 
 type Parser struct {

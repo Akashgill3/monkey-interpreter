@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/Akashgill3/monkey-interpreter/token"
+import "github.com/akashgill3/monkey-interpreter/token"
 
 type Node interface {
 	TokenLiteral() string
