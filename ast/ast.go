@@ -41,3 +41,6 @@ type Identifier struct {
 	Token token.Token // the token.IDENT token
 	Value string
 }
+
+func (i *Identifier) statementNode()       {}
+func (i *Identifier) TokenLiteral() string { return i.Token.Literal }
